@@ -1,0 +1,8 @@
+Website :
+- Statis (update konten harus manual coding)
+- Dinamis (ada database)
+
+Script Desain website (client)
+- HTML (Pondasi) = menyusun dokument web, berbentuk text
+- CSS (Polesan)
+- Javascript (Otak fungsi)
